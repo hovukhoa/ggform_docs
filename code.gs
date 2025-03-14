@@ -1,6 +1,6 @@
 function exportNewEntry() {
-  var templateFileId = "12-b6jerocBsAkmOE59-s4c59F9xMoaAayMdk_v6qL2w"; // File mẫu
-  var folderId = "1sH_pH8tAmtVQ_84UVm_GFdBcj3S9h6lb"; // Thư mục lưu file
+  var templateFileId = ""; // File mẫu
+  var folderId = ""; // Thư mục lưu file
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   var lastRow = sheet.getLastRow(); // Lấy dòng mới nhất
   var row = sheet.getRange(lastRow, 1, 1, sheet.getLastColumn()).getValues()[0]; // Lấy dữ liệu hàng cuối
