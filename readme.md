@@ -7,3 +7,4 @@ Dự án này có vài ý chính như sau:
 Có 2 trường thông tin quan trọng đó là:  
 a. ID thư mục chứ các văn bản (bao gồm văn bản mẫu gốc)  
 b. ID văn bản mẫu gốc  
+Code.gs chứa mã Google AppScript  
